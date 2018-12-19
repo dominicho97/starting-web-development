@@ -129,6 +129,7 @@ position: relative
       height: auto;
       
       
+      
       background-color: pink;
       /* position tot transform voor content in center*/
       position: relative;
@@ -143,6 +144,12 @@ position: relative
     }
 
     .image-3{
+      float: left;
+      margin-left: 40px;
+      position: relative;
+    }
+
+    .image-4{
       float: left;
       margin-left: 40px;
       position: relative;
