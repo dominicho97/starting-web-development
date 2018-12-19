@@ -5,9 +5,10 @@
 
 body{
   margin-left: 400px;
+  margin-right: 300px;
   font-family: 'Montserrat', sans-serif;
 font-family: 'Open Sans', sans-serif;
-font-size:13px;
+font-size:18px;
 }
 
 
@@ -32,10 +33,67 @@ top: -175px;
 position: relative
 }
 
+  p{
+    color: grey;
 
+  }
 
  .image-1{
-   margin-left: 200px;
+   margin-left: 300px;
  }
 
+  h1{
+    text-align: center;
+    color: rgba(228, 79, 53, 0.795);
+  }
+
+
+  h2{
+    text-align: center;
+    color: gray;
+  }
+
+  .button {
+    font-size:  16px;
+
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: rgba(228, 79, 53, 0.795);
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    
+    width: 120px;
+    height: 40px;;
+    
+    
+    text-align: center;
+    left: 340px;
+    position: relative;
+    
+    top:-50px;
+    
+
+    display: absolute;
+  }
+
+  .button a{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+  }
+
+  .block1{
+    
+    width:800px;
+    height: 500px;
+    background-color: pink;
+    /* position tot transform voor content in center*/
+    position: relative;
+    
+    
+      
+    }
   
