@@ -4,7 +4,7 @@
 
 
 body{
-  margin-left: 100px;
+  margin-left: 400px;
   font-family: 'Montserrat', sans-serif;
 font-family: 'Open Sans', sans-serif;
 font-size:13px;
@@ -31,3 +31,11 @@ left: -435px;
 top: -175px;
 position: relative
 }
+
+
+
+ .image-1{
+   margin-left: 200px;
+ }
+
+  
