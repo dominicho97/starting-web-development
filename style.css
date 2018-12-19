@@ -13,23 +13,20 @@ font-size:18px;
 
 
 .description-1{
-float: right;
-left: -185px;
-top: -175px;
+
 position: relative;
+padding-bottom: 90px;
 }
 
 .description-2{
-  float: right;
-left: -435px;
-top: -175px;
+  top:30px;
+
 position: relative
 }
 
 .description-3{
-  float: right;
-left: -435px;
-top: -175px;
+  
+
 position: relative
 }
 
@@ -121,4 +118,32 @@ position: relative
       top: 60px;
     }
       
+      .hfm{
+        top: 40px;
+        position: relative;
+        padding-bottom: 80px;
+      }
+
+    .block-3{
+      width:800px;
+      height: auto;
       
+      
+      background-color: pink;
+      /* position tot transform voor content in center*/
+      position: relative;
+      text-align: center;
+    }
+
+    .image-2{
+      float: left;
+      margin-left: 40px;
+      position: relative;
+
+    }
+
+    .image-3{
+      float: left;
+      margin-left: 40px;
+      position: relative;
+    }
