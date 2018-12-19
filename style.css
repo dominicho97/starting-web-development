@@ -93,7 +93,32 @@ position: relative
     /* position tot transform voor content in center*/
     position: relative;
     
-    
+    margin-top: 30px;
       
     }
   
+
+    .block-2{
+    
+      width:800px;
+      height: 150px;
+      
+      background-color: pink;
+      /* position tot transform voor content in center*/
+      position: relative;
+      text-align: center;
+      
+      }
+
+
+    .links  li{
+      display: inline-block;
+     
+      padding-left: 35px;
+      position: relative;
+
+      left: -50px;
+      top: 60px;
+    }
+      
+      
