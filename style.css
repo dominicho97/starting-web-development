@@ -79,14 +79,17 @@ position: relative
     
     top:-50px;
     
-
-    display: absolute;
+    margin-bottom: 10px;
+    display: relative;
   }
 
   .button a{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
+    color: white;
+    top: 10px;
+    position: relative;
   }
 
   .block1{
@@ -120,9 +123,10 @@ position: relative
      
       padding-left: 35px;
       position: relative;
-
+      
       left: -50px;
       top: 60px;
+     
     }
       
       .hfm{
@@ -152,4 +156,7 @@ position: relative
       
     }
 
-    
+    a{
+      text-decoration: none;
+      color:lightgray;
+    }
