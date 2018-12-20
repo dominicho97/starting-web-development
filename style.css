@@ -8,7 +8,7 @@ body{
   margin-right: 300px;
   font-family: 'Montserrat', sans-serif;
 font-family: 'Open Sans', sans-serif;
-font-size:18px;
+font-size:20px;
 background: rgb(237, 243, 245);
 }
 
@@ -78,7 +78,7 @@ position: relative
     left: 340px;
     position: relative;
     
-    top:-50px;
+    top:-60px;
     
     margin-bottom: 10px;
     display: relative;
