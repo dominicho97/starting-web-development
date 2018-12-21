@@ -115,6 +115,7 @@ position: relative
       /* position tot transform voor content in center*/
       position: relative;
       text-align: center;
+     
       
       }
 
@@ -160,6 +161,11 @@ position: relative
     a{
       text-decoration: none;
       color:lightgray;
+      
     }
 
-    
+    .logo{
+      position: relative;
+      left: 45px;
+      top: 20px;
+    }
